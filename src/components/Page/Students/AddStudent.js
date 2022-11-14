@@ -53,7 +53,7 @@ function Add({students, setStudents, setIsAdding}) {
           title: 'Error',
           text: 'Sorry, something went wrong please try again later',
           showConfirmButton: false,
-          timer: 1500,
+          timer: 1000,
         });
       });
 
@@ -64,7 +64,7 @@ function Add({students, setStudents, setIsAdding}) {
       title: 'Added!',
       text: `${name}'s data has been Added.`,
       showConfirmButton: false,
-      timer: 1500,
+      timer: 1000,
     });
   };
 
