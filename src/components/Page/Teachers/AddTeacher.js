@@ -32,7 +32,6 @@
 //       email,
 //       phone_number: phoneNumber,
 //     };
-
 //     fetch('http://localhost:9292/teachers', {
 //       method: 'POST',
 //       headers: {
