@@ -118,8 +118,11 @@ function Dashboard() {
         />
       )}
 
-      <Footer />
+     <Footer />
     </div>
+
+ 
+   
   );
 }
 
