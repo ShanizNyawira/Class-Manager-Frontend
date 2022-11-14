@@ -61,4 +61,4 @@ Emails:
 <benard.cheruiyot@student.moringaschool.com>
 <shaniz.nyawira@student.moringaschool.com>
 
-[Go Back to the Top](#phase3-project)
+[Go Back to the Top](#phase3-project---class-manager)
